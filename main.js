@@ -221,7 +221,6 @@ function completeQuiz() {
         <div class="start-quiz">
             <p>Are you ready to test your Beethoven know-how?  Try our quiz and find out just how much you know about one of history's most famous composers! </p>
             <button id="startButton" type="button">Start Quiz</button>
-            <div class='views'>Other views: <a href="question.html">Question View</a> | <a href="end.html">Ending Screen</a></div>
         </div>
         <div class="question"></div>
         <div class="answer"></div>
