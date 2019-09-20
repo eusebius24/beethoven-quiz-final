@@ -6,3 +6,4 @@ This is a 10-question quiz written as part of the Bloc.io Web Development Track 
 ## Technologies used
 HTML5, CSS3, JS, JQuery
 
+![Screenshot of start screen](/images/beethoven-quiz-screenshot.png)
