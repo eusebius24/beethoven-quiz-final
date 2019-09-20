@@ -80,3 +80,16 @@ legend {
 label {
   margin-left: 4px;
 }
+
+input:hover, button:hover {
+    cursor: pointer;
+}
+
+button {
+    background-color: #544F53;
+    color: #fff;
+    font-weight: 900;
+    height: 30px;
+    width: 125px;
+    border-radius: 5px;
+}

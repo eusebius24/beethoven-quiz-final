@@ -138,6 +138,7 @@ function showAnswer() {
     $('.question').on('submit', function() {
         event.preventDefault();
         console.log('You clicked the answer button!');
+        $('.question').find('.answerbutton').hide();
         if(!$('input[name="question"]').is(':checked')) {
           alert('Please select an option');
         } else {
